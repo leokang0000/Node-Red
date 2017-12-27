@@ -9,7 +9,7 @@
         "type": "debug",
         "z": "173d6bbf.f63f34",
         "name": "",
-        "active": false,
+        "active": true,
         "console": "false",
         "complete": "payload",
         "x": 1220,
@@ -133,4 +133,3 @@
         ]
     }
 ]
-
